@@ -18,7 +18,7 @@ This analysis and the resulting dashboard were designed to answer critical busin
 
 ## 📂 Project Structure
 
-The Excel file (`Excel Project Dataset.xlsx`) is organized into four main sheets:
+The Excel file (`Project.xlsx`) is organized into four main sheets:
 
 1.  **bike\_buyers**: The raw, unprocessed dataset containing 1000 records of customer information.
 2.  **Working Sheet**: The primary data preparation area where:
